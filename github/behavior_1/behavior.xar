@@ -15,7 +15,7 @@
             <BehaviorLayer name="behavior_layer1">
                 <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram>
-                        <Box name="Say" id="1" localization="8" tooltip="Say some text. Note that you must open the box to enter the text." x="123" y="86">
+                        <Box name="Say" id="1" localization="8" tooltip="Say some text. Note that you must open the box to enter the text." x="236" y="71">
                             <bitmap>media/images/box/interaction/say.png</bitmap>
                             <script language="4">
                                 <content>
@@ -127,7 +127,7 @@ class MyClass(GeneratedClass):
 			"Finnish" : " Hei ",
 			"French" : " Bonjour ",
 			"Italian" : " Ciao ",
-			"Japanese" : " github test ",
+			"Japanese" : " github test 22222 ",
 			"Korean" : " 안녕하세요 ",
 			"Dutch" : " Hallo ",
 			"Norwegian" : "  ",
@@ -177,7 +177,7 @@ class MyClass(GeneratedClass):
                                                         <![CDATA[Ciao]]>
 </italian>
                                                     <japanese>
-                                                        <![CDATA[github test]]>
+                                                        <![CDATA[github test 22222]]>
 </japanese>
                                                     <korean>
                                                         <![CDATA[안녕하세요]]>
