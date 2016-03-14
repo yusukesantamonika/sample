@@ -127,7 +127,7 @@ class MyClass(GeneratedClass):
 			"Finnish" : " Hei ",
 			"French" : " Bonjour ",
 			"Italian" : " Ciao ",
-			"Japanese" : " github test 22222 ",
+			"Japanese" : " github test 2222233333 ",
 			"Korean" : " 안녕하세요 ",
 			"Dutch" : " Hallo ",
 			"Norwegian" : "  ",
@@ -177,7 +177,7 @@ class MyClass(GeneratedClass):
                                                         <![CDATA[Ciao]]>
 </italian>
                                                     <japanese>
-                                                        <![CDATA[github test 22222]]>
+                                                        <![CDATA[github test 2222233333]]>
 </japanese>
                                                     <korean>
                                                         <![CDATA[안녕하세요]]>
